@@ -69,12 +69,36 @@
 ## Cipher 05
 
 > Bmfy ytbs ini N mnij tzy ns zsynq ymj Ozajsnqj Htzwy qtxy ozwnxinhynts tajw rj ?
-
 **Solving Technique:** ROT13 Brute Force in Cyber Chef
-
 ### Deciphered
-
 **What town did I hide out in until the Juvenile Court lost jurisdiction over me ?**
-
 ### Answer
 `oroville`
+---
+
+## Cipher 06
+
+> Kyoo olxi rzr Niyovo Cohjpcx ojy dn T apopsy?
+
+**Solving Technique:** Vigenere Cipher
+
+**Key:**`oroville`
+### Deciphered
+**what game did sandra lambert ask if i played?**
+### Answer      
+`hearts`
+---
+## Cipher 07
+
+>Kvoh wg hvs boas ct hvs Doqwtwq Pszz sadzcmss kvc fsor hvs wbhsfboz asac opcih am voqywbu oqhwjwhwsq cjsf hvs voa forwc?
+
+**Solving Technique:** Vigenere Cipher
+
+**Key:**`hearts`
+### Deciphered
+What is the name of the Pacific Bell employee who read the internal memo about my hacking activities over the ham radio?
+### Answer
+`Bill Cook`
+---
+## Cipher 08
+>
